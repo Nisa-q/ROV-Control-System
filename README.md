@@ -24,13 +24,14 @@ To run this Ground Control Station on your local machine, follow these steps:
 
 Clone the repository:
 
-Bash
-git clone https://github.com/kullanici-adin/repo-adin.git
-Install all dependencies: (This uses the requirements.txt file you see in the folder)
+### 📥 Installation & Setup
 
-Bash
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Nisa-q/ROV-Control-System.git](https://github.com/Nisa-q/ROV-Control-System.git)
+
 pip install -r requirements.txt
+
 Launch the interface:
 
-Bash
 python main.py
