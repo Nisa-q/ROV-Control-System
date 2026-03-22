@@ -1,4 +1,4 @@
-# ROV-Control-System
+# ROV-Control-System-GUI
 🌊 TEKNOFEST ROV - Ground Control Station (GUI)
 This repository contains the primary Control Station Interface for an Unmanned Underwater Vehicle (ROV), specifically developed for TEKNOFEST missions. It integrates real-time telemetry, camera feeds, and autonomous control logic into a high-performance dashboard.
 
