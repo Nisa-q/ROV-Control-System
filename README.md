@@ -30,8 +30,8 @@ Clone the repository:
    ```bash
    git clone [https://github.com/Nisa-q/ROV-Control-System.git](https://github.com/Nisa-q/ROV-Control-System.git)
 
+2.Install all dependencies:
 pip install -r requirements.txt
 
-Launch the interface:
-
+3.Launch the interface:
 python main.py
